@@ -1,16 +1,6 @@
 # on_boarding
 
-A new Flutter project.
+An onboarding experience is a way to introduce users to a new product, app, or feature. Onboarding UX is the design of a flow or series of flows that give the user a guided introduction to the product, set up some initial preferences, or point out critical UI elements in an interface.
 
-## Getting Started
+onboarding the flutter app how use this splash screens for one time on your application 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
